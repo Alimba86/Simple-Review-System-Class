@@ -1,0 +1,7 @@
+{
+  "name": "spiros-aliprantis/review-system-test",
+  "description": "This is a small test of an OOP site review system",
+  "require": {
+    "php": "^7.2"
+  }
+}
